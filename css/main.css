@@ -6,3 +6,7 @@ p {
   font-size: 100;
   color: black;
 }
+
+table {
+  height: 20px;
+}
